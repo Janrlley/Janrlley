@@ -15,4 +15,6 @@
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janrlley)](https://github.com/Janrlley/github-readme-stats)
+
 Apaixonado por tecnologia, em busca de oportunidades! ⭐
